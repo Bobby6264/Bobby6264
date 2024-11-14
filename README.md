@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar Sethi</h1>
-<h3 align="center">A student of ComputerScience & Engineering at IIT Kharagpur, enrolled in its DualDegree Course. Passionate about trying newthings in the field of IoT.</h3>
+<h3 align="center">I am currently pursuing a Dual Degree in Computer Science and Engineering at IIT Kharagpur. I have a keen interest in exploring innovative applications in the field of IoT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobby6264&label=Profile%20views&color=0e75b6&style=flat" alt="bobby6264" /> </p>
 
